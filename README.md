@@ -37,7 +37,7 @@ GitScope is a developer analytics dashboard that turns public GitHub profile and
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/mujtabamisri/gitscope.git
    ```
 
 2. Enter the project directory:
